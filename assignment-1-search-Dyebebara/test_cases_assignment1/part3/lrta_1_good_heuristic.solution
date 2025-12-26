@@ -1,0 +1,7 @@
+# This is the solution file for test_cases_assignment1/part3/lrta_3_good_heuristic.test.
+# This solution is designed to support both right-to-left
+# and left-to-right implementations.
+solution: "1:A->B 0:B->C 0:C->G"
+expanded_states: "A B C B C A A D E D E A D D E A A B C"
+rev_solution: "1:A->B 0:B->C 0:C->G"
+rev_expanded_states: "A B C B C A A D E D E A D D E A A B C"
